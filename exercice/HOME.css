@@ -1,0 +1,85 @@
+body{
+
+	background-image:url("cap2.png"); 
+	float: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+}
+#container,h2{
+	color: white;
+	text-align: center;
+}
+div ul li
+{
+	display: inline-block;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 30px;
+	color: #d85a6f;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#HOME{
+	background-color: #d85a6f;
+	color: white;
+	padding: 15px;
+	border-radius: 25px;
+}
+#menu
+{
+	float: right;
+	margin-right: 150px;
+	margin-top: -30px;
+}
+div h1{
+	color: #d85a6f;
+	text-align: left;
+	padding-top: 150px;
+	margin-left: 200px;
+	margin-right: 1000px;
+	font-size: 50px;
+}
+div h3{
+	color: white;
+	text-align: left;
+	padding-top: -50px;
+		margin-top: -20px;
+
+	float: left;
+	margin-left: 200px;
+}
+.btn a{
+	color: white;
+	float: right;
+	margin-right: 1000px;
+	margin-top: 10px;
+	background: #d85a6f;
+	border-radius: 100px;
+	padding: 15px;
+}
+.twitter
+{
+	margin-left: 65px;
+margin-top:-32px;
+height: 50px;
+width: 90px;
+
+}
+.instagram
+{
+	margin-left: -30px;
+	margin-top: -35px;
+	height: 70px;
+	width: 70px;
+}
+.facebook
+{
+	margin-left: 70px;
+	margin-top: 85px;
+	height: 70px;
+	width: 70px;
+}

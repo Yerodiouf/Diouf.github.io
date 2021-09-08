@@ -1,0 +1,49 @@
+body{
+
+	background-image:url("cap2.png"); 
+	float: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+}
+#container,h2{
+	color: white;
+	text-align: center;
+}
+div ul li
+{
+	display: inline-block;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 30px;
+	color: #d85a6f;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#HOME{
+	background-color: #d85a6f;
+	color: white;
+	padding: 15px;
+	border-radius: 25px;
+}
+#menu
+{
+	float: right;
+	margin-right: 150px;
+	margin-top: -30px;
+}
+fieldset{
+	color: white;
+}
+form{
+	color: white;
+}
+imput{
+	color: blue;
+}
+label{
+	color:white;
+}
